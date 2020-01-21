@@ -7,10 +7,10 @@ This application is a project planner, and where users can create an account, lo
 You can checkout my deployed application using https://marioplanner-9cbe9.firebaseapp.com/. Any feedback is appreciated. 
 
 ## Technologies
-React.js
-react-redux
-Firebase
+* React.js
+* react-redux
+* Firebase
 
 ### Author
 Ricky McConnell
-https://www.linkedin.com/in/richard-mcconnell/
+* https://www.linkedin.com/in/richard-mcconnell/
