@@ -17,6 +17,11 @@ body {
   min-height: 100%;
 }
 
+.project-list-container {
+  max-height: 450px;
+  overflow-y: scroll;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
