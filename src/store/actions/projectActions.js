@@ -21,3 +21,7 @@ export const createProject = project => {
       });
   };
 };
+
+// export const deleteProject = id => {
+//   return (dispatch, getState, {})
+// };

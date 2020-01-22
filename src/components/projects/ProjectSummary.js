@@ -12,6 +12,12 @@ const ProjectSummary = ({ project }) => {
         <p className="grey-text">
           {moment(project.createdAt.toDate()).calendar()}
         </p>
+        <button className="edit-project-btn btn pink lighten-1 z-depth-0">
+          Edit Project
+        </button>
+        <button className="delete-project-btn btn pink lighten-1 z-depth-0">
+          Delete Project
+        </button>
       </div>
     </div>
   );
